@@ -43,16 +43,7 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mingu0215&show_icons=true&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingu0215&layout=compact" />
-</p>
-
-<p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=mingu0215" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mingu0215&theme=minimal" />
 </p>
 
 ---
