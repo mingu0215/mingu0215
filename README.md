@@ -35,6 +35,61 @@
 
 ---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mingu0215&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mingu0215?label=Followers&style=flat&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mingu0215&show_icons=true&rank_icon=github" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingu0215&layout=compact" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=mingu0215" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mingu0215&theme=minimal" />
+</p>
+
+---
+
+## 📌 Key Projects
+
+### 🧠 Data + NLP + Research System
+- **Metadata-based Topic Classification**
+  - 연구데이터 메타데이터 기반 자동 주제분류
+  - 데이터 품질 및 DB 운영 효율 개선
+
+- **Mental Health Detection Chatbot**
+  - 텍스트 기반 정신건강 상태 탐지 NLP 시스템
+  - 데이터 전처리 및 라벨링 구조 설계
+
+---
+
+### 📊 Public Data + Optimization
+- **Meal Support Hub Optimization**
+  - 공공데이터 기반 고령자 지원 거점 최적화
+  - MCLP 기반 비용-효율 모델 설계
+
+- **Tourism Data Analysis**
+  - 관광 데이터 기반 지표 설계 및 인사이트 도출
+  - 공모전 수상 프로젝트
+
+---
+
+### 🧪 Data Analysis & Competition
+- **Public Big Data Analysis (GwangJin)**
+  - 지역 빅데이터 분석 기반 정책 인사이트 도출
+
+- **Team Project (Software Engineering)**
+  - 협업 기반 데이터/서비스 프로젝트 수행
+ 
+---
+
 ## Tech Stack
 
 ### Languages & Query
