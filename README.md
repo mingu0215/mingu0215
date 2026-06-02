@@ -21,12 +21,12 @@
 
 ## About Me
 
-- 🎓 Major in **Data Science** and **Software**
-- 🧠 Interested in **Data Analytics, NLP, Machine Learning, Data Engineering**
-- 🏗️ Experienced in **research data management, metadata design, DB operations, and ML/NLP modeling**
-- 📊 Strong at turning complex public and social data into **structured, decision-ready solutions**
-- 🚀 Building data projects that connect **problem definition → data pipeline → model → insight → real-world use**
-
+- 🎓 Double Major in Data Science and Software
+- 🧠 Interested in Data Analytics, NLP, Machine Learning, Data Engineering, and Research Data Systems
+- 🏗️ Experienced in research database construction, metadata standardization, data quality management, and ML/NLP modeling
+- 📊 Strong at transforming complex public, social, and research data into structured, decision-ready solutions
+- 🚀 Built end-to-end projects connecting problem definition → data pipeline → modeling → optimization → service implementation
+- 🌱 Passionate about creating reliable data systems that bridge research, analytics, and real-world impact
 ---
 
 ## 📊 GitHub Dashboard
@@ -46,33 +46,60 @@
 
 ### 🧠 Data + NLP + Research System
 - **Metadata-based Topic Classification**
-  - 연구데이터 메타데이터 기반 자동 주제분류
-  - 데이터 품질 및 DB 운영 효율 개선
+  - Reorganized 12,120 KRM monograph records
+  - Redesigned **45 → 35 subject classes** to address class imbalance
+  - Compared SVM, Random Forest, XGBoost, and RoBERTa models
+  - Achieved **Accuracy 0.792 / F1-score 0.775**
+  - Verified applicability to research-data DB operations
 
-- **Mental Health Detection Chatbot**
-  - 텍스트 기반 정신건강 상태 탐지 NLP 시스템
-  - 데이터 전처리 및 라벨링 구조 설계
+- **Real-time Mental Health Detection Chatbot**
+  - Built an **NLP pipeline** using online counseling data
+  - Reduced 210,805 → 43,466 sentences through TF-IDF & n-gram filtering
+  - Designed a dataset covering 16 disorders and 48 symptoms
+  - Applied uncertainty-aware classification for real-time mental health detection
 
 ---
 
 ### 📊 Public Data + Optimization
 - **Meal Support Hub Optimization**
-  - 공공데이터 기반 고령자 지원 거점 최적화
-  - MCLP 기반 비용-효율 모델 설계
+  - Designed **elderly meal-accessibility support hubs** using public and spatial data
+  - Applied MCLP optimization model
+  - Derived optimal locations for Songpa and Nowon districts
+  - Awarded **Chairman's Award in the National Happiness Service Discovery Competition**
 
-- **Tourism Data Analysis**
-  - 관광 데이터 기반 지표 설계 및 인사이트 도출
-  - 공모전 수상 프로젝트
+- **Seoul Coolness Night Tourism Map**
+  - Designed a tourism experience index using tourism and mobility datasets
+  - Integrated visitor, spending, and survey data
+  - Conducted clustering analysis and map-based visualization
+  - Awarded in the **Korea Tourism Data Contest**
 
 ---
 
-### 🧪 Data Analysis & Competition
-- **Public Big Data Analysis (GwangJin)**
-  - 지역 빅데이터 분석 기반 정책 인사이트 도출
+### 🤖 Recommendation & AI Systems
+- **LLM-based Personalized Policy Recommendation System**
+  - Designed a hybrid architecture combining **SQL filtering, vector search, and LLM re-ranking**
+  - Built a **RAG-based recommendation pipeline** for personalized policy matching
 
-- **Team Project (Software Engineering)**
-  - 협업 기반 데이터/서비스 프로젝트 수행
+- **GNN-based Personalized Food Recommendation System**
+  - Built a **graph-based recommendation model** using survey and crawling data
+  - Improved recommendation quality from **NDCG 44.82% → 81.55%**
  
+---
+
+### 🧪 Data Analysis & Competitio
+- **Flood Vulnerability Analysis**
+  - Developed flood vulnerability indicators using entropy weighting and clustering
+  - Proposed policy recommendations for urban flood-risk management
+
+- **Public Waste Bin Location Optimization**
+  - Estimated demand through regression analysis
+  - Applied clustering techniques for optimal public waste-bin placement
+
+- **Hate Speech Classification (Unsmile Classifier)**
+  - Developed a Korean hate-speech classification model using KcELECTRA
+  - Reorganized labels into nine hate-speech categories
+  - Presented at the DScover Academic Conference
+
 ---
 
 ## Tech Stack
