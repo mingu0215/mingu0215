@@ -44,6 +44,17 @@
 
 ## 📌 Key Projects
 
+### 🏭 Digital Twin & Smart Manufacturing
+- **Digital Twin-based Cosmetic Manufacturing Process Simulator**
+  - Developed a web-based digital twin simulator for cosmetic emulsification processes using **Three.js** and **Population Balance Modeling (PBM)**
+  - Implemented a **65-node Fixed-Pivot PBM engine** to predict droplet size distribution (DSD), viscosity, hardness, and emulsion uniformity
+  - Reproduced industrial homogenizer dynamics including homogenizer, paddle, and scraper systems through real-time 3D particle simulation
+  - Built an automated quality-control framework using **D₃₂, H-Index, viscosity, and hardness** for PASS / REVIEW / FAIL classification
+  - Developed scale-up prediction logic for **100L / 300L / 500L vessels** based on constant energy dissipation principles
+  - Validated simulation outputs against real manufacturing batches and demonstrated applicability to smart manufacturing and process optimization
+
+---
+
 ### 🧠 Data + NLP + Research System
 - **Metadata-based Topic Classification**
   - Reorganized 12,120 KRM monograph records
