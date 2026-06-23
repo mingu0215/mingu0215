@@ -52,17 +52,17 @@
   - Developed scale-up prediction logic for **100L / 300L / 500L vessels** based on constant energy dissipation principles
   - Validated simulation outputs against real manufacturing batches and demonstrated applicability to smart manufacturing and process optimization
 
-  - **Publication & Presentation**
+  * **Publication & Presentation**
   - Submitted the paper *"Population Balance Model-Based Cosmetic Emulsion Scale-Up Simulator: Integrated Analysis of Droplet Size Distribution, Uniformity, Viscosity, and Hardness (100–500 L Vessels)"* to the **ICSOC 2026 Industry Track**
   - Proposed a digital twin framework integrating 3D process visualization, PBM-based quality prediction, automated QC evaluation, and vessel scale-up optimization
 
-  - **Intellectual Property**
+  * **Intellectual Property**
   - Patent Pending: *"Method and System for Predicting and Evaluating Scale-Up Emulsification Quality of Cosmetic Emulsion Manufacturing Vessels Using Population Balance Models and Multi-Quality Indicators"*
   - Applicants: Sungkyunkwan University Industry-Academic Cooperation Foundation
   - Inventors: Jongpil Jeong, Minkyu Kang, Seowoo Lee, Hakseung Lee
   - Reference No. **R-2026-0578-KR-1**
 
-  - **Software Registration**
+  * **Software Registration**
   - Software Title: **CEVSim (Cosmetic Emulsification Vessel Scale-Up Simulator)**
   - Type: Industrial Application Software
   - Authors: Jongpil Jeong, Jaekyung Yoo, Minkyu Kang, Seowoo Lee, Hakseung Lee
