@@ -45,24 +45,44 @@
 ## 📌 Key Projects
 
 ### 🏭 Digital Twin & Smart Manufacturing
-- **Digital Twin-based Cosmetic Manufacturing Process Simulator**
+- **CEVSim: Cosmetic Emulsification Vessel Scale-Up Simulator**
   - Developed a web-based digital twin simulator for cosmetic emulsification processes using **Three.js** and **Population Balance Modeling (PBM)**
   - Implemented a **65-node Fixed-Pivot PBM engine** to predict droplet size distribution (DSD), viscosity, hardness, and emulsion uniformity
-  - Reproduced industrial homogenizer dynamics including homogenizer, paddle, and scraper systems through real-time 3D particle simulation
   - Built an automated quality-control framework using **D₃₂, H-Index, viscosity, and hardness** for PASS / REVIEW / FAIL classification
   - Developed scale-up prediction logic for **100L / 300L / 500L vessels** based on constant energy dissipation principles
   - Validated simulation outputs against real manufacturing batches and demonstrated applicability to smart manufacturing and process optimization
 
+  - **Publication & Presentation**
+  - Submitted the paper *"Population Balance Model-Based Cosmetic Emulsion Scale-Up Simulator: Integrated Analysis of Droplet Size Distribution, Uniformity, Viscosity, and Hardness (100–500 L Vessels)"* to the **ICSOC 2026 Industry Track**
+  - Proposed a digital twin framework integrating 3D process visualization, PBM-based quality prediction, automated QC evaluation, and vessel scale-up optimization
+
+  - **Intellectual Property**
+  - Patent Pending: *"Method and System for Predicting and Evaluating Scale-Up Emulsification Quality of Cosmetic Emulsion Manufacturing Vessels Using Population Balance Models and Multi-Quality Indicators"*
+  - Applicants: Sungkyunkwan University Industry-Academic Cooperation Foundation
+  - Inventors: Jongpil Jeong, Minkyu Kang, Seowoo Lee, Hakseung Lee
+  - Reference No. **R-2026-0578-KR-1**
+
+  - **Software Registration**
+  - Software Title: **CEVSim (Cosmetic Emulsification Vessel Scale-Up Simulator)**
+  - Type: Industrial Application Software
+  - Authors: Jongpil Jeong, Jaekyung Yoo, Minkyu Kang, Seowoo Lee, Hakseung Lee
+  - Copyright Registration: Pending
+
 ---
 
 ### 🧠 Data + NLP + Research System
-- **Metadata-based Topic Classification**
-  - Reorganized 12,120 KRM monograph records
-  - Redesigned **45 → 35 subject classes** to address class imbalance
-  - Compared SVM, Random Forest, XGBoost, and RoBERTa models
-  - Achieved **Accuracy 0.792 / F1-score 0.775**
-  - Verified applicability to research-data DB operations
+- **Metadata-Based Automatic Subject Classification for Research Data Management**
+  - Processed and analyzed **12,120 KRM humanities and social science monograph records**
+  - Redesigned **45 → 35 subject classes** to mitigate class imbalance
+  - Constructed integrated metadata features from titles, abstracts, keywords, glossaries, and tables of contents
+  - Compared **SVM, Random Forest, XGBoost, and RoBERTa models** for multi-class classification
+  - Achieved **Accuracy 0.792 / F1-score 0.775** with RoBERTa
+  - Demonstrated the feasibility of AI-assisted subject classification for large-scale research data management systems
 
+  - **Publication & Presentation**
+  - Presented at the **31st Korean Society for Information Management (KSIM) Summer Conference, 2024**
+  - Co-authored a research paper on metadata-driven automatic subject classification for research repositories
+    
 - **Real-time Mental Health Detection Chatbot**
   - Built an **NLP pipeline** using online counseling data
   - Reduced 210,805 → 43,466 sentences through TF-IDF & n-gram filtering
