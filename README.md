@@ -54,19 +54,28 @@ My recent work spans **Digital Twin**, **Large Language Models (LLMs)**, **Retri
 | Category | GPA |
 |-----------|------:|
 | Overall | **4.03 / 4.5** |
+| Major (Total) | **4.00 / 4.5** |
 | Major (Data Science) | **4.13 / 4.5** |
+| Major (Software) | **3.76 / 4.5** |
 
 ---
-# 💼 Experience
+# 💼 Professional Experience
 
 | Period | Organization | Position | Description |
 |---------|--------------|----------|-------------|
-| Jul. 2026 – Present | GS Engineering & Construction | Digital Twin Engineer | Plant Division · Digital Twin Team |
-| Sep. 2024 – Dec. 2025 | SKKU Institute of Information Management | Research Assistant | National Research Data Management (KRM DB Construction) |
-| Sep. 2024 – Dec. 2024 | DXLab | Undergraduate Researcher | Multimodal Harmful Content Filtering |
-| Mar. 2023 – Aug. 2024 | DScover | President | Data Science Academic Society |
-| Jan. 2024 | University of Washington | Global Data Science Program | Winter Exchange Program |
-| Mar. 2024 – Nov. 2024 | K-Software Empowerment Bootcamp | Team Leader | AI/Data Engineering Program |
+| Jul. 2026 – Present | **GS Engineering & Construction** | **Digital Twin Engineer** | Plant Division · Developing Digital Twin solutions for EPC and Smart Construction |
+| Sep. 2024 – Dec. 2025 | **SKKU Institute of Information Management** | **Research Assistant** | National Research Data Management (KRM) · Metadata Engineering · AI-based Subject Classification |
+
+---
+
+# 🎓 Academic & Leadership Experience
+
+| Period | Organization | Role | Description |
+|---------|--------------|------|-------------|
+| Sep. 2024 – Dec. 2024 | DXLab | Undergraduate Researcher | Multimodal Harmful Content Filtering using Vision-Language Models |
+| Mar. 2023 – Aug. 2024 | DScover | President | Led the university Data Science Society with six technical tracks and project-based programs |
+| Mar. 2024 – Nov. 2024 | K-Software Empowerment Bootcamp | Team Leader | Led an AI/Data Engineering team through an industry-oriented software bootcamp |
+| Jan. 2024 | University of Washington | Participant | Winter Global Data Science Program |
 
 ---
 # ⭐ Featured Projects
@@ -156,7 +165,52 @@ My recent work spans **Digital Twin**, **Large Language Models (LLMs)**, **Retri
 `Playwright`
 
 ---
+## 🌃 Seoul Coolness Night Map
+### Data-driven Night Tourism Experience Analytics
 
+> **A tourism analytics platform that quantifies the qualitative concept of "Coolness" to recommend personalized night tourism experiences in Seoul.**
+
+### Highlights
+
+- 🌙 Proposed a novel **Coolness Index** to quantify qualitative tourism experiences.
+- 📊 Integrated tourism demand, mobility, spending, and public datasets.
+- 🗺 Built an interactive night tourism map supporting category-based exploration.
+- 👥 Combined public tourism statistics with user survey data to model visitor preferences.
+- 📈 Measured tourism experience improvements using quantitative evaluation metrics.
+- 🌏 Designed personalized recommendations for both domestic and international tourists.
+
+### Achievement
+
+🏆 Encouragement Prize
+
+2025 Korea Tourism Data Contest
+
+### Impact
+
+- 📈 Increased perceived Coolness by **21.8%**
+- 🚀 Improved local-experience indicators by up to **32.8%**
+- 🌃 Enhanced tourism convenience and safety perception by up to **21.4%**
+
+### My Contribution
+
+- Designed the Coolness evaluation framework.
+- Integrated tourism public datasets.
+- Built tourism analytics and visualization.
+- Conducted data-driven policy analysis.
+
+### Tech Stack
+
+`Python`
+
+`Tourism Analytics`
+
+`GIS`
+
+`Visualization`
+
+`Public Data`
+
+---
 ## 🏛 Youth Policy RAG
 ### Personalized Policy Recommendation Platform
 
@@ -192,6 +246,43 @@ My recent work spans **Digital Twin**, **Large Language Models (LLMs)**, **Retri
 `Node.js`
 `React`
 `Software Engineering`
+---
+
+## 🍽 Meal Support Hub Optimization
+### AI-driven Spatial Optimization for Elderly Meal Accessibility
+
+> **An AI-powered public welfare planning project that optimizes meal support hub locations for low-income elderly populations using GIS, public data, and mathematical optimization.**
+
+### Highlights
+
+- 📍 Designed an accessibility-driven welfare model based on the **Aging in Community (AIC)** concept.
+- 🗺 Conducted spatial analysis using **QGIS** and public datasets to identify meal deserts.
+- 🚶 Modeled elderly walking accessibility using an average speed of **0.5 m/s** and a **900 m service radius**.
+- 📊 Applied the **Maximal Covering Location Problem (MCLP)** to maximize service coverage under budget constraints.
+- 💰 Built a cost-efficiency model considering installation cost, meal operating cost, and ROI simulation.
+- 📈 Derived optimal hub locations (**Songpa: 5 hubs, Nowon: 6 hubs**) by balancing accessibility and operational efficiency.
+
+### Achievement
+
+🏆 Chairman's Award
+
+National Happiness Service Discovery Competition (2025)
+
+### My Contribution
+
+- Designed the spatial optimization framework.
+- Performed GIS-based accessibility analysis.
+- Developed the MCLP optimization model.
+- Conducted cost-effectiveness and ROI analysis.
+
+### Tech Stack
+
+`Python`
+`QGIS`
+`MCLP`
+`GIS`
+`Spatial Analysis`
+`Public Data`
 
 ---
 
